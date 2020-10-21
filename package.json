@@ -1,0 +1,24 @@
+{
+  "name": "Notestry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zoeezo/Notestry.git"
+  },
+  "keywords": [],
+  "author": "Zoeezo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zoeezo/Notestry/issues"
+  },
+  "homepage": "https://github.com/Zoeezo/Notestry#readme",
+  "devDependencies": {
+    "electron": "^10.1.4"
+  }
+}
